@@ -1,0 +1,223 @@
+# =============================================================================
+# Honduras — Mid-year population estimates by department, 2014–2024
+# =============================================================================
+# Source:        Instituto Nacional de Estadística (INE) de Honduras,
+#                Proyecciones de Población (BASE=PROYPOB), based on the
+#                XVII Censo Nacional de Población y VI de Vivienda 2013,
+#                served via Redatam+SP from CEPAL/CELADE.
+# Source URL:    http://181.115.7.199/binhnd/RpWebEngine.exe/Portal?BASE=PROYPOB&lang=ESP
+# Inst. site:    https://www.ine.gob.hn (Instituto Nacional de Estadística de Honduras)
+# Accessed:      2026-06-10
+# Cross-check:   2024 figures validated against CEPAL/CELADE Redatam+SP
+#                Output report dated 14/04/2025 (PROYEC.AN=2024), stored
+#                locally as "Reporte 2024.xls".
+# Unit:          Persons; mid-year estimate.
+# Coverage:      18 departments × 11 years = 198 rows.
+# Encoding:      UTF-8 (Spanish department names preserved with accents).
+# Maintainer:    Larissa Acosta Salgado <larissa.acosta@galileo.edu>
+# Last update:   2026-06-10
+# License:       CC BY 4.0 (see LICENSE-DATA.md).
+# Notes:         Column DEPT matches the output of clean_department() and
+#                feeds assign_region() in the analytical script. The most
+#                recent official Honduran census is the 2013 census; the
+#                2024 round has not yet been released as of this update.
+# =============================================================================
+DEPT,YEAR,POPULATION
+Atlántida,2014,442636
+Atlántida,2015,449822
+Atlántida,2016,457031
+Atlántida,2017,464288
+Atlántida,2018,471575
+Atlántida,2019,478876
+Atlántida,2020,486174
+Atlántida,2021,493489
+Atlántida,2022,500846
+Atlántida,2023,508228
+Atlántida,2024,515617
+Colón,2014,314581
+Colón,2015,319786
+Colón,2016,324950
+Colón,2017,330105
+Colón,2018,335233
+Colón,2019,340323
+Colón,2020,345362
+Colón,2021,350386
+Colón,2022,355436
+Colón,2023,360498
+Colón,2024,365557
+Comayagua,2014,502203
+Comayagua,2015,511943
+Comayagua,2016,521748
+Comayagua,2017,531676
+Comayagua,2018,541711
+Comayagua,2019,551837
+Comayagua,2020,562033
+Comayagua,2021,572355
+Comayagua,2022,582860
+Comayagua,2023,593521
+Comayagua,2024,604311
+Copán,2014,376573
+Copán,2015,382722
+Copán,2016,388810
+Copán,2017,394890
+Copán,2018,400947
+Copán,2019,406965
+Copán,2020,412927
+Copán,2021,418889
+Copán,2022,424904
+Copán,2023,430958
+Copán,2024,437037
+Cortés,2014,1590282
+Cortés,2015,1621762
+Cortés,2016,1653699
+Cortés,2017,1686094
+Cortés,2018,1718881
+Cortés,2019,1751997
+Cortés,2020,1785376
+Cortés,2021,1818981
+Cortés,2022,1852772
+Cortés,2023,1886695
+Cortés,2024,1920701
+Choluteca,2014,442320
+Choluteca,2015,447852
+Choluteca,2016,453360
+Choluteca,2017,458871
+Choluteca,2018,464372
+Choluteca,2019,469848
+Choluteca,2020,475284
+Choluteca,2021,480701
+Choluteca,2022,486120
+Choluteca,2023,491525
+Choluteca,2024,496899
+El Paraíso,2014,451069
+El Paraíso,2015,458472
+El Paraíso,2016,465864
+El Paraíso,2017,473277
+El Paraíso,2018,480700
+El Paraíso,2019,488119
+El Paraíso,2020,495521
+El Paraíso,2021,502944
+El Paraíso,2022,510431
+El Paraíso,2023,517966
+El Paraíso,2024,525535
+Francisco Morazán,2014,1529681
+Francisco Morazán,2015,1553379
+Francisco Morazán,2016,1577178
+Francisco Morazán,2017,1601291
+Francisco Morazán,2018,1625663
+Francisco Morazán,2019,1650245
+Francisco Morazán,2020,1674986
+Francisco Morazán,2021,1699753
+Francisco Morazán,2022,1724409
+Francisco Morazán,2023,1748900
+Francisco Morazán,2024,1773174
+Gracias a Dios,2014,92527
+Gracias a Dios,2015,94450
+Gracias a Dios,2016,96384
+Gracias a Dios,2017,98337
+Gracias a Dios,2018,100304
+Gracias a Dios,2019,102281
+Gracias a Dios,2020,104261
+Gracias a Dios,2021,106251
+Gracias a Dios,2022,108262
+Gracias a Dios,2023,110288
+Gracias a Dios,2024,112322
+Intibucá,2014,236859
+Intibucá,2015,241568
+Intibucá,2016,246258
+Intibucá,2017,250959
+Intibucá,2018,255658
+Intibucá,2019,260344
+Intibucá,2020,265006
+Intibucá,2021,269674
+Intibucá,2022,274380
+Intibucá,2023,279111
+Intibucá,2024,283857
+Islas de la Bahía,2014,64173
+Islas de la Bahía,2015,65932
+Islas de la Bahía,2016,67704
+Islas de la Bahía,2017,69493
+Islas de la Bahía,2018,71296
+Islas de la Bahía,2019,73112
+Islas de la Bahía,2020,74938
+Islas de la Bahía,2021,76777
+Islas de la Bahía,2022,78630
+Islas de la Bahía,2023,80498
+Islas de la Bahía,2024,82378
+La Paz,2014,202320
+La Paz,2015,206065
+La Paz,2016,209783
+La Paz,2017,213499
+La Paz,2018,217204
+La Paz,2019,220892
+La Paz,2020,224554
+La Paz,2021,228214
+La Paz,2022,231898
+La Paz,2023,235599
+La Paz,2024,239307
+Lempira,2014,326878
+Lempira,2015,333125
+Lempira,2016,339310
+Lempira,2017,345489
+Lempira,2018,351652
+Lempira,2019,357783
+Lempira,2020,363867
+Lempira,2021,369964
+Lempira,2022,376139
+Lempira,2023,382378
+Lempira,2024,388667
+Ocotepeque,2014,148809
+Ocotepeque,2015,151516
+Ocotepeque,2016,154251
+Ocotepeque,2017,157018
+Ocotepeque,2018,159816
+Ocotepeque,2019,162638
+Ocotepeque,2020,165482
+Ocotepeque,2021,168350
+Ocotepeque,2022,171251
+Ocotepeque,2023,174179
+Ocotepeque,2024,177128
+Olancho,2014,528626
+Olancho,2015,537306
+Olancho,2016,545835
+Olancho,2017,554282
+Olancho,2018,562626
+Olancho,2019,570845
+Olancho,2020,578919
+Olancho,2021,586918
+Olancho,2022,594910
+Olancho,2023,602876
+Olancho,2024,610799
+Santa Bárbara,2014,427762
+Santa Bárbara,2015,434896
+Santa Bárbara,2016,441939
+Santa Bárbara,2017,448942
+Santa Bárbara,2018,455891
+Santa Bárbara,2019,462774
+Santa Bárbara,2020,469579
+Santa Bárbara,2021,476368
+Santa Bárbara,2022,483203
+Santa Bárbara,2023,490072
+Santa Bárbara,2024,496965
+Valle,2014,176358
+Valle,2015,178561
+Valle,2016,180772
+Valle,2017,182996
+Valle,2018,185227
+Valle,2019,187460
+Valle,2020,189690
+Valle,2021,191923
+Valle,2022,194166
+Valle,2023,196412
+Valle,2024,198654
+Yoro,2014,578496
+Yoro,2015,587375
+Yoro,2016,596138
+Yoro,2017,604844
+Yoro,2018,613473
+Yoro,2019,622006
+Yoro,2020,630421
+Yoro,2021,638774
+Yoro,2022,647122
+Yoro,2023,655445
+Yoro,2024,663724
