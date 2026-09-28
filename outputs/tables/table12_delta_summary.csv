@@ -1,0 +1,4 @@
+DELTA_PRESENTATION,n,n_female,n_male,median_age,min_age,max_age,n_in_hosp_deaths
+Acute coinfection (B16.0/B16.1),7,5,2,36,0.6666666666666666,61,1
+Superinfection in HBV carrier (B17.0),6,3,3,33.5,11,84,1
+Chronic HBV with delta (B18.0),2,1,1,22.5,14,31,0

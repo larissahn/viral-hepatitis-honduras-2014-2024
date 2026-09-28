@@ -1,0 +1,4 @@
+definition,n_total,n_B15,n_B16,n_B17,n_B18,n_B19
+Inclusive (all EDAD TIPO 1-4),2492,1457,189,152,67,627
+Primary (exclude EDAD TIPO 1 = hours),2488,1455,189,152,67,625
+Sensitivity (exclude EDAD TIPO 1 and 2),2481,1450,189,152,67,623

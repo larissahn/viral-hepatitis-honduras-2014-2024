@@ -1,0 +1,16 @@
+YEAR,MONTH,PRESENTATION,ICD_FULL,SEX,AGE_YEARS,DEPARTMENT,REGION,DIAGNOSIS_ORDER,DISCHARGE_OUTCOME
+2016,3,Acute coinfection (B16.0/B16.1),B16.0,Female,44,Atlántida,NORTE,2,4 Fallecido
+2016,4,Superinfection in HBV carrier (B17.0),B17.0,Female,30,Intibucá,OCCIDENTE,2,4 Fallecido
+2017,10,Chronic HBV with delta (B18.0),B18.0,Female,31,Colón,NORTE,2,1 Igual Condición
+2018,5,Superinfection in HBV carrier (B17.0),B17.0,Male,21,Intibucá,OCCIDENTE,1,2 Mejorado
+2018,11,Acute coinfection (B16.0/B16.1),B16.0,Female,0.7,Gracias a Dios,ORIENTE,1,2 Mejorado
+2019,11,Acute coinfection (B16.0/B16.1),B16.0,Male,8,Intibucá,OCCIDENTE,2,2 Mejorado
+2020,8,Superinfection in HBV carrier (B17.0),B17.0,Female,11,Francisco Morazán,CENTRO,2,2 Mejorado
+2021,3,Acute coinfection (B16.0/B16.1),B16.0,Female,26,Gracias a Dios,ORIENTE,1,2 Mejorado
+2021,12,Acute coinfection (B16.0/B16.1),B16.1,Female,36,Yoro,NORTE,2,2 Mejorado
+2022,2,Superinfection in HBV carrier (B17.0),B17.0,Female,37,Colón,NORTE,2,2 Mejorado
+2023,1,Superinfection in HBV carrier (B17.0),B17.0,Male,84,Colón,NORTE,1,2 Mejorado
+2023,9,Acute coinfection (B16.0/B16.1),B16.1,Male,61,Colón,NORTE,2,2 Mejorado
+2024,3,Acute coinfection (B16.0/B16.1),B16.1,Female,60,Yoro,NORTE,1,1 Igual Condición
+2024,8,Chronic HBV with delta (B18.0),B18.0,Male,14,Atlántida,NORTE,2,2 Mejorado
+2024,9,Superinfection in HBV carrier (B17.0),B17.0,Male,40,Colón,NORTE,2,3 Curado

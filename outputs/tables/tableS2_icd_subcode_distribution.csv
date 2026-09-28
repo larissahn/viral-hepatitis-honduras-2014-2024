@@ -1,0 +1,18 @@
+ICD_FULL,DESCRIPTION_WHO,DIAGNOSIS_GROUP,n_discharges,pct_within_group,pct_overall,n_deaths
+B15.0,Acute hepatitis A with hepatic coma,B15,21,1.4,0.84,0
+B15.9,Acute hepatitis A without hepatic coma,B15,1434,98.6,57.64,8
+B16.0,Acute hepatitis B with delta-agent (coinfection) with hepatic coma,B16,4,2.1,0.16,0
+B16.1,Acute hepatitis B with delta-agent (coinfection) without hepatic coma,B16,3,1.6,0.12,0
+B16.2,Acute hepatitis B without delta-agent with hepatic coma,B16,6,3.2,0.24,0
+B16.9,Acute hepatitis B without delta-agent and without hepatic coma,B16,176,93.1,7.07,6
+B17.0,Acute delta-(super)infection of hepatitis B carrier,B17,6,3.9,0.24,0
+B17.1,Acute hepatitis C,B17,35,23,1.41,2
+B17.2,Acute hepatitis E,B17,4,2.6,0.16,0
+B17.8,Other specified acute viral hepatitis,B17,107,70.4,4.3,0
+B18.0,Chronic viral hepatitis B with delta-agent,B18,2,3,0.08,0
+B18.1,Chronic viral hepatitis B without delta-agent,B18,29,43.3,1.17,1
+B18.2,Chronic viral hepatitis C,B18,14,20.9,0.56,2
+B18.8,Other chronic viral hepatitis,B18,3,4.5,0.12,0
+B18.9,"Chronic viral hepatitis, unspecified",B18,19,28.4,0.76,0
+B19.0,Unspecified viral hepatitis with hepatic coma,B19,5,0.8,0.2,0
+B19.9,Unspecified viral hepatitis without hepatic coma,B19,620,99.2,24.92,16
