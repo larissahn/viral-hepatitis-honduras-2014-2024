@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you reuse this code or the derived figures, please cite it using the metadata below."
+title: "Viral hepatitis in Honduras, 2014–2024: a decade-long analysis of hospitalizations and mortality linked to EPI coverage, with genomic characterization of HBV"
+abstract: "Reproducible analytical script that characterizes hospitalizations and mortality from viral hepatitis (ICD-10 B15–B19) in Honduras during 2014–2024, their temporal relationship with Expanded Program on Immunization (EPI) coverage, and the molecular characterization of the only available Honduran hepatitis B virus (HBV) sequences. It generates the figures, tables, and statistics of the work accepted as an e-poster at the XXIV National Course and V National Congress of Infectious Diseases (SHEI), Tegucigalpa, Honduras, 14–16 October 2026, and of the extended abstract deposited as a preprint."
+type: software
+authors:
+  - family-names: "Acosta Salgado"
+    given-names: "Larissa"
+    orcid: "https://orcid.org/0000-0002-3583-5070"
+    email: "larissa.acosta@galileo.edu"
+    affiliation: "Department of Molecular Biology, Galileo University, Guatemala City, Guatemala"
+  - family-names: "Cruz Betanco"
+    given-names: "Daniela Sofía"
+    affiliation: "Fundación Hondureña para la Salud Hepática (FUNHEPA), Tegucigalpa, Honduras"
+  - family-names: "Reyes"
+    given-names: "Zonia"
+    affiliation: "Facultad de Postgrado, Universidad Tecnológica Centroamericana (UNITEC), Tegucigalpa, Honduras"
+date-released: "2026-09-28"
+version: "1.0.0"
+license: MIT
+license-url: "https://opensource.org/licenses/MIT"
+repository-code: "https://github.com/larissahn/viral-hepatitis-honduras-2014-2024"
+identifiers:
+  - type: doi
+    value: "10.6084/m9.figshare.34007166"
+    description: "Extended-abstract preprint (Figshare)"
+keywords:
+  - hepatitis
+  - viral hepatitis
+  - hepatitis A
+  - hepatitis B
+  - hepatitis C
+  - hepatitis delta
+  - epidemiology
+  - public health
+  - Honduras
+  - Central America
+  - immunization coverage
+  - genomic surveillance
+  - HBsAg
+  - reproducible research
+  - R
+preferred-citation:
+  type: conference-paper
+  title: "Disease burden and gaps in elimination: a decade-long analysis of hospitalizations and mortality from viral hepatitis and genomic characterization of hepatitis B virus in Honduras, 2014–2024"
+  authors:
+    - family-names: "Acosta Salgado"
+      given-names: "Larissa"
+      orcid: "https://orcid.org/0000-0002-3583-5070"
+    - family-names: "Cruz Betanco"
+      given-names: "Daniela Sofía"
+    - family-names: "Reyes"
+      given-names: "Zonia"
+  conference:
+    name: "XXIV Curso y V Congreso Nacional de Enfermedades Infecciosas (SHEI)"
+    city: "Tegucigalpa"
+    country: "HN"
+  year: 2026
+  month: 10
