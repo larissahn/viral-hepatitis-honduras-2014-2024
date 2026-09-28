@@ -42,7 +42,8 @@ The SESAL microdata (`2014-2024 Enfermedades Hepaticas.xlsx` and `2024 Egresos_ 
 │   ├── 05_figures/panel_S_ML.nwk           Maximum-likelihood S-gene tree (F1a placement)
 │   ├── 06_tables/hbsag_mhr_substitutions.csv   HBsAg residue map (Fig 6 input)
 │   ├── 06_tables/teg_genotype.csv          Genotype call per sequence (all F)
-│   └── notes/08_geno2pheno_TEG.csv         Geno2pheno[hbv] subgenotype call (F1)
+│   ├── notes/08_geno2pheno_TEG.csv         Geno2pheno[hbv] subgenotype call (F1)
+│   └── notes/09_phylo_confirmation.md      F1a phylogenetic confirmation (ML tree; methods note)
 └── outputs/
     ├── tables/                             CSV tables (table1–table14, tableS2–tableS7, sessionInfo.txt)
     └── figures/                            EN/ES figures in PDF + PNG + TIFF (regenerated on run)
